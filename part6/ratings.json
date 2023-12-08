@@ -1,0 +1,33 @@
+{
+    "ratings": [
+      {
+        "opponent": "Tennessee",
+        "location": "Knoxville, Tenn.",
+        "date": "Sept 30",
+        "rating": 3,
+        "description": "As a carolina fan who had a lot of hope for this game it was looking fine at the start. This all changed at the end of the first half where our qb spencer rattler threw an interception. Sadly since that we were not able to cut it close and fell to a score of 20-41."
+      },
+      {
+        "opponent": "Florida",
+        "location": "Gainesville, FL",
+        "date": "2023-10-15",
+        "rating": 8,
+        "description": "A thrilling game, we won with a last-minute touchdown!"
+      },
+      {
+        "opponent": "Georgia",
+        "location": "Athens, GA",
+        "date": "2023-09-22",
+        "rating": 6,
+        "description": "Tough game, but we put up a good fight."
+      },
+      {
+        "opponent": "Auburn",
+        "location": "Columbia, SC",
+        "date": "2023-08-30",
+        "rating": 7,
+        "description": "A great start to the season!"
+      }
+    ]
+  }
+  
