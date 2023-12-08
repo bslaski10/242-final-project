@@ -25,7 +25,7 @@ header #main-title {
 #button-schedule,
 #button-my-tickets,
 #button-game-ratings,
-#button-log-in {
+#button-stats {
     border: 2px solid maroon; 
     font-size: 12px;
     background: none;
@@ -186,7 +186,7 @@ body {
     #button-schedule,
     #button-my-tickets,
     #button-game-ratings,
-    #button-log-in {
+    #button-stats {
         font-size: 20px;
     }
 }
